@@ -1028,7 +1028,7 @@
       </child>
 
       <child>
-	<widget class="GtkLabel" id="label41">
+	<widget class="GtkLabel" id="LBBN2">
 	  <property name="width_request">89</property>
 	  <property name="height_request">16</property>
 	  <property name="visible">True</property>
@@ -1054,7 +1054,7 @@
       </child>
 
       <child>
-	<widget class="GtkLabel" id="label42">
+	<widget class="GtkLabel" id="LBBN3">
 	  <property name="width_request">89</property>
 	  <property name="height_request">16</property>
 	  <property name="visible">True</property>
@@ -1080,7 +1080,7 @@
       </child>
 
       <child>
-	<widget class="GtkLabel" id="label43">
+	<widget class="GtkLabel" id="LBBN4">
 	  <property name="width_request">89</property>
 	  <property name="height_request">16</property>
 	  <property name="visible">True</property>
@@ -1106,7 +1106,7 @@
       </child>
 
       <child>
-	<widget class="GtkComboBoxEntry" id="comboboxentry4">
+	<widget class="GtkComboBoxEntry" id="cbxx1">
 	  <property name="width_request">157</property>
 	  <property name="height_request">32</property>
 	  <property name="visible">True</property>
@@ -1121,7 +1121,7 @@
       </child>
 
       <child>
-	<widget class="GtkLabel" id="label44">
+	<widget class="GtkLabel" id="lbv2">
 	  <property name="width_request">89</property>
 	  <property name="height_request">16</property>
 	  <property name="visible">True</property>
@@ -1147,7 +1147,7 @@
       </child>
 
       <child>
-	<widget class="GtkLabel" id="label45">
+	<widget class="GtkLabel" id="lbv1">
 	  <property name="width_request">89</property>
 	  <property name="height_request">16</property>
 	  <property name="visible">True</property>
@@ -1173,7 +1173,7 @@
       </child>
 
       <child>
-	<widget class="GtkEntry" id="entry18">
+	<widget class="GtkEntry" id="etrrr18">
 	  <property name="width_request">160</property>
 	  <property name="height_request">27</property>
 	  <property name="visible">True</property>
@@ -1193,7 +1193,7 @@
       </child>
 
       <child>
-	<widget class="GtkButton" id="button10">
+	<widget class="GtkButton" id="bttn2">
 	  <property name="width_request">120</property>
 	  <property name="height_request">32</property>
 	  <property name="visible">True</property>
@@ -1210,7 +1210,7 @@
       </child>
 
       <child>
-	<widget class="GtkButton" id="button9">
+	<widget class="GtkButton" id="bttn1">
 	  <property name="width_request">120</property>
 	  <property name="height_request">32</property>
 	  <property name="visible">True</property>
@@ -1250,7 +1250,7 @@
       <property name="visible">True</property>
 
       <child>
-	<widget class="GtkLabel" id="label46">
+	<widget class="GtkLabel" id="lbx1">
 	  <property name="width_request">185</property>
 	  <property name="height_request">16</property>
 	  <property name="visible">True</property>
@@ -1276,7 +1276,7 @@
       </child>
 
       <child>
-	<widget class="GtkLabel" id="label47">
+	<widget class="GtkLabel" id="lbx2">
 	  <property name="width_request">225</property>
 	  <property name="height_request">24</property>
 	  <property name="visible">True</property>
@@ -1302,7 +1302,7 @@
       </child>
 
       <child>
-	<widget class="GtkLabel" id="label48">
+	<widget class="GtkLabel" id="lbx3">
 	  <property name="width_request">161</property>
 	  <property name="height_request">40</property>
 	  <property name="visible">True</property>
@@ -1328,7 +1328,7 @@
       </child>
 
       <child>
-	<widget class="GtkEntry" id="entry19">
+	<widget class="GtkEntry" id="entrrr1">
 	  <property name="width_request">160</property>
 	  <property name="height_request">27</property>
 	  <property name="visible">True</property>
@@ -1348,7 +1348,7 @@
       </child>
 
       <child>
-	<widget class="GtkButton" id="button11">
+	<widget class="GtkButton" id="bttn3">
 	  <property name="width_request">106</property>
 	  <property name="height_request">48</property>
 	  <property name="visible">True</property>
@@ -1365,7 +1365,7 @@
       </child>
 
       <child>
-	<widget class="GtkButton" id="button12">
+	<widget class="GtkButton" id="bttn4">
 	  <property name="width_request">106</property>
 	  <property name="height_request">48</property>
 	  <property name="visible">True</property>
