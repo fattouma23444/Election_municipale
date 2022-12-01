@@ -52,8 +52,8 @@ create_window1_fatma (void)
 
   label_election_fatma = gtk_label_new (_("Election municipale"));
   gtk_widget_show (label_election_fatma);
-  gtk_fixed_put (GTK_FIXED (fixed1), label_election_fatma, 232, 48);
-  gtk_widget_set_size_request (label_election_fatma, 193, 56);
+  gtk_fixed_put (GTK_FIXED (fixed1), label_election_fatma, 0, 0);
+  gtk_widget_set_size_request (label_election_fatma, 0, 0);
   gtk_label_set_justify (GTK_LABEL (label_election_fatma), GTK_JUSTIFY_CENTER);
   gtk_misc_set_alignment (GTK_MISC (label_election_fatma), 0.5, 0.41);
 

@@ -3,3 +3,5 @@
  */
 
 GtkWidget* create_window1_fatma (void);
+GtkWidget* create_modifier_fatma (void);
+GtkWidget* create_ajouter_fatma (void);
