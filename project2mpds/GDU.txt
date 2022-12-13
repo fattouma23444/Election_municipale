@@ -1,8 +1,0 @@
-Flen Fleni 1/1/2004 M 12345678 abcd efg Admin -1 10
-Flena Fouleniya 31/12/1998 F 87654321 fff5 xyz654 Observateur 1234 14
-kkkk jjjj 1/1/1995 F 12345679 jkjk kjkkj Admin -1 87
-sdf kksd 1/1/2004 F 12345 abcdefg 123 Admin -1 122
-sdqf xwvcw 1/1/2004 F 14752 elec123 123 Electeur -1 55
-lsdk plkl 1/1/1994 M 14785234 observ123 123 Observateur -1 10
-sdfh kjj 1/1/1998 M 12345875 agentbv12 123 AgentBV -1 10
-qsdfo hhqjsdj 1/1/1997 F 1234995 elec456 456456 Electeur -1 10
