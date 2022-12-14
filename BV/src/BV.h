@@ -1,6 +1,7 @@
 #ifndef BV_H_INCLUDED
 #define BV_H_INCLUDED
 #include <stdio.h>
+#include <gtk/gtk.h>
 typedef struct
 {
  int NumBV ;
@@ -14,11 +15,12 @@ typedef struct
 
 
 }BV;
- int ajouter (char * fich_BV ,BV bv  );
- int modifier (char * fich_BV ,BV nouvBV , int NumBV);
- int supprimer (char * fich_BV ,int  );
- BV chercher (char * fich_BV, int NumBV);
+ int ajouter (char * fich ,BV bv  );
+ int modifier (char * fich ,BV nouvBV , int NumBV);
+ int supprimer (char * fich,int NumBV );
+ BV chercher (char * fich, int NumBV);
  float TPE ( char* fich_user);
  int NBE (char *fich_user ,int NumBV );
+ void afficher (GtkWidget *liste);
  
 #endif // BV_H_INCLUDED

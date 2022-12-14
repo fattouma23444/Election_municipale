@@ -38,7 +38,7 @@ main (int argc, char *argv[])
    */
   mariem_1 = create_mariem_1 ();
   gtk_widget_show (mariem_1);
- /* mariem2 = create_mariem2 ();
+  /*mariem2 = create_mariem2 ();
   gtk_widget_show (mariem2);
   mariem3 = create_mariem3 ();
   gtk_widget_show (mariem3);
