@@ -1,4 +1,0 @@
-testtest 3 3 2022 555 3 bureau_de_vote testdesctestdesc urgente
-testlo 1 1 2022 123 4 bureau_de_vote hhhj urgente
-xyz 1 1 2022 123 3 liste_electorale lll moyen
-abc 1 1 2022 985 1 autres 123dfs moyen
