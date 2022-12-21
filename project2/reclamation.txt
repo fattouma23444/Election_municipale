@@ -1,6 +1,0 @@
-1441613 1 12 2022 15 1 autres hello urgente
-123456 1 12 2022 15 1 autres bonjour urgente
-test 1 12 2022 15 3045 autres bonsoir urgente
-548 1 12 2022 15 1 autres hhh urgente
-stattest 1 1 2022 244 2 autres testtest urgente
-stattest2 1 5 2022 387 2 bureau_de_vote hh urgente
